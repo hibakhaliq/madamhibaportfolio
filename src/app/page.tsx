@@ -1,7 +1,6 @@
 import NavBar from "./components/NavBar.js"
 import Head from "next/head";
 import Hero from "./components/Hero.js"
-import Image from "next/image";
 import Services from "./components/Services.js"
 import PopularClass from "./components/PopularClass.js"
 import Heros from "./components/Heros.js"

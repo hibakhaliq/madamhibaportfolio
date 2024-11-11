@@ -1,5 +1,4 @@
 import React from "react";
-import { IoIosArrowForward } from "react-icons/io";
 import { HiOutlineArrowUpRight } from "react-icons/hi2";
 const PopularClass = () => {
   const service = [

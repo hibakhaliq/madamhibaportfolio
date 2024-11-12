@@ -2,11 +2,11 @@ import React from 'react'
 
 const Blogs = () => {
   return (
-    <div className='container mx-auto py-20'>
+    <div className='container mx-auto py-20 lg:w-auto lg:h-[90vh] '>
         <p className='text-2xl font-semibold'>Our Recent Blogs</p>
         <div className="flex justify-between items-center">
             <div className="flex flex-col gap-4">
-            <div className="flex gap-6 items-center">
+            <div className="flex gap-6 items-center lg:w-auto lg:h-[90vh] ">
                 <img src="/assets/blog1.svg" alt="" />
                 <div className="flex flex-col gap-3">
                     <p className='text-[#6941C6] text-lg font-semibold'>March 15, 2020</p>
